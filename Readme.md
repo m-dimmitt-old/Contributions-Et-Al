@@ -31,7 +31,22 @@
 
 ## Repositories I own and Contribute to:
 <pre>
-1	mapFactory/Github-Map
+28 Aerial_Desktop
+1	 mapFactory/Github-Map
+0  js_menubar_attempt
+0  mac_plist_launch_agent
+0  youtube_mac_screensaver
+0  LOGO_img_menubar_logo_longwayround
+
+0 teach_fin/ruby/g-r-s-t-r-w-stb
+0 teach_fin/js/simp-js-term
+0 teach_fin/js/swag-express-example-with-mongo
+
+      command_chaining
+0 design-new-bash-project
+0 t_chain_previous
+      git 
+0 automate-hist-rewr
 
 1	FixGithubReadmeBot/RubyFixHeaders
 0	ReadmePhaseProjects/editing_a_file_Various_Languages
@@ -74,7 +89,7 @@
 ## Some of my "Cool Repositories":
 <pre>
 0  rewrite_with_auth_unf-swuber_web_app_phoenix
-17 Aerial_Desktop
+28 Aerial_Desktop
 1  USEFull_for_Others
 1  mapFactory/Github-Map
 0  mapFactory/Github_map_Closing_Notes
